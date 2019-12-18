@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
+import './app.scss';
 
 // 路由配置
 import { BrowserRouter as Router } from 'react-router-dom';
